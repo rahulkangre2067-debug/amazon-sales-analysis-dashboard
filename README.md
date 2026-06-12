@@ -19,14 +19,14 @@ This Power BI dashboard provides insights into Amazon sales performance, custome
 
 ## Dashboard Pages
 
-### Page 1: Executive Summary
-Overview of sales, customers, categories, and states.
+### Page 1: Sales Overview Dashboard
+Overview of sales performance, profit, orders, category distribution, and monthly trends.
 
-### Page 2: Product & Customer Analysis
-Analysis of customer demographics and product categories.
+### Page 2: Product Performance Dashboard
+Analysis of top-selling products, profitable products, customer retention, and product portfolio.
 
-### Page 3: Regional & Trend Analysis
-State-wise sales performance and monthly trends.
+### Page 3: Customer & Regional Analysis Dashboard
+Analysis of customer demographics, payment methods, state-wise orders, and regional performance.
 
 ## Files Included
 - Amazon_Sales Dashboard_1.pbix
